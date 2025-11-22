@@ -7,6 +7,7 @@
 	<Script file="SM_ItemLink.lua"/>
 	<Script file="SM_Slash.lua"/>
 	<Script file="SM_Tooltip.lua"/>
+	<Script file="SM_MacroTorch.lua"/>
 	<Script file="SM_Extend.lua"/>
 	<Script file="localization.lua"/>
 	<FontString name="SuperMacroButtonFont" virtual="true" inherits="GameFontNormalLarge">
